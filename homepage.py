@@ -27,7 +27,7 @@ st.set_page_config(
 st.title("Yukon Conservation Society")
 with st.container():
     st.write('---')
-    st.header('Yukon Conservation Society')
+    #st.header('Yukon Conservation Society')
     st.write('##')
     left_column, right_column = st.columns((1,2))
     # with left_column:
