@@ -6,7 +6,7 @@ st.title('Geothermal Energy')
 st.write('---')
 
 
-
+st.subheader(f'Resources')
 
 
 
