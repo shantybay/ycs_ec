@@ -27,7 +27,7 @@ with st.container():
     st.write('[YG SMR Feasibility Report >](https://emrlibrary.gov.yk.ca/energy/feasibility-study-of-small-modular-reactors-in-the-yukon-2023.pdf)')
     st.write('Sierra Club Position and Info')
     st.write('[Sierra Club SMR >](https://www.sierraclub.org/iowa/blog/2022/08/small-modular-reactors)')
-
+    st.write('[David Suzuki Foundation Article>](https://davidsuzuki.org/story/burying-radioactive-nuclear-waste-poses-enormous-risks/?utm_source=mkto-none-smSubscribers-readOnline-body&utm_medium=email&utm_campaign=scienceMatters-nuclearWaste-en-02aug2024&mkt_tok=MTg4LVZEVS0zNjAAAAGUsb2vgeRvSRUk5EvYWnzjrn7Y7hqQFvZcuovqBcEgHXykgTlfhZDeu1JdGTs7Xf3NSngAiFni-gPoCC_QBmuiKAWdTfdO8DJW9dbzWZkv4aO_oA)')
 st.header(":mailbox: Have your say! :house_with_garden:")
 
 contact_form ="""
